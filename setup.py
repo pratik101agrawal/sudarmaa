@@ -27,5 +27,5 @@ setup(
         'Genshi',
         'lxml',
         'PIL',
-    ],
-)
+                     ],
+    )
